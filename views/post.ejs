@@ -1,0 +1,17 @@
+<%-include("partials/header")   %>
+
+<h1> <%= title %></h1>
+
+<h6>Published on :: <%=date %> </h6> 
+
+
+
+<p>  <%= content %>  </p>
+
+
+
+<form action="/delete" method="post">
+    <button class="btn btn-danger deleteButton" type="submit" name="deleteButton" value="<%=id%>" >Delete</button>
+</form>
+
+<%-include("partials/footer")   %>

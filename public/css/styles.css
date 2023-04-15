@@ -1,0 +1,72 @@
+
+.container-fluid{
+    padding-top:70px;
+    padding-bottom:70px;
+}
+/* Navbar Styles*/
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+}
+
+.nav-item{
+    font-size: small;
+    margin:0 1rem;
+}
+
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+/*Content Styles  */
+h1{
+    margin-top:3.5rem;
+}
+
+.footer-padding {
+	padding-bottom: 65px;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    text-align: center;
+    background: #111;
+    height: 65px;
+    width: 100%;
+    color: #fff;
+    padding-top:10px;
+}
+
+
+.f-icon{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 1.5rem 25rem 1.5rem;
+    color:#fff;
+    margin-top:25px;
+    
+    
+}
+.f-icon:hover{
+    color:red 
+}
+
+h6{
+    font-style: italic;
+    font-weight: 400;
+}
+
+.deleteButton{
+    margin-bottom:10px;
+}
+
+.publishButton{
+    margin-bottom:10px;
+}
