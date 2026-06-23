@@ -1,4 +1,4 @@
-## Welcome aboard!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+aboard!++%F0%9F%A4%97)](https://git.io/typing-svg)
 
 This is a full-stack blogging platform built with Node.js, Express, MongoDB, Mongoose, and EJS.
 Platform Users can create, view, and delete blog posts, with all data persisted in MongoDB, either locally or cloud-based.
